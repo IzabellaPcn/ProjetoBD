@@ -1,0 +1,2 @@
+ISBN: 123, Título: abc, Autor: def, Número de chamada: 234, Edição: 8, Acervo: 2343, Ano de Publicação:8
+ISBN: 147, Título: sdasf, Autor: afdfc, Número de chamada: 4235, Edição: 5, Acervo: 324, Ano de Publicação:2342
